@@ -27,4 +27,4 @@ A: 'Answer file' is the name I have given to denote the file that stores informa
 <br>
 Q: Where do I find the answer file?
 <br>
-A: Open devtools & navigate to Application > Top > assessmentEngine.html > JavaScript > assessmentengine.nocache.js. If it doesn't appear, reload the page.
+A: Open devtools & navigate to Application > Top > assessmentEngine.html > assessmentEngine (assessmentEngine.html) > JavaScript > AssessmentJSONPStorageServlet. If it doesn't appear, reload the page.
