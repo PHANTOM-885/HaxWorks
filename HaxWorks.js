@@ -298,7 +298,7 @@
 				answer = "D: "+answerfile[0].assessment.question[question].choice[3].content;
 			}
 			if (answered == 0 || qcheck != 1) {
-				alert("question "+question+"/"+(Number(question)+Number(questionsleft))+"\n"+answer);
+				alert("question "+question+"/"+questionsleft+"\n"+answer);
 			}	
 			answered = 1;
 		}
