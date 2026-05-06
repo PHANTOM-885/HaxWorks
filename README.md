@@ -17,6 +17,7 @@ Notes:
 -Currently, this script is not designed for anything beyond language arts & math. However, it likely can support others (with some help).
 <br>
 -Lesson skipping has not been added yet.
+-Questions are indexed at 0.
 
 
 # Questions
